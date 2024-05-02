@@ -11,5 +11,5 @@ This insight could be utilized to implement more preventative measures in an att
 
 <strong>Video Link</strong>: https://drive.google.com/file/d/1aeG4vMZ3C_OfOpgBA0JXJ5XWUGH5sD4Z/view?usp=sharing
 
-<strong>Project Paper</strong>:
+<strong>Project Paper</strong>: https://github.com/mbiller-student/CSPB-4502-Project/blob/main/06_LA_Crime_Part4.pdf
 
