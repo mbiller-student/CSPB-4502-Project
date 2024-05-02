@@ -9,7 +9,7 @@ Results from both the entire investigation, as well as the investigation specifi
 This insight could be utilized to implement more preventative measures in an attempt to reduce the rate of these crimes. Preventative measures could come in the form of public information and awareness, or increased resources widely available to the public.
 
 
-<strong>Video Link</strong>:
+<strong>Video Link</strong>: https://drive.google.com/file/d/1aeG4vMZ3C_OfOpgBA0JXJ5XWUGH5sD4Z/view?usp=sharing
 
 <strong>Project Paper</strong>:
 
